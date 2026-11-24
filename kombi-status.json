@@ -1,0 +1,10 @@
+{
+  "gauges": {
+    "clock": "available",
+    "c964": "available",
+    "fuelcombo": "next",
+    "oilcombo": "coming",
+    "speedo": "coming",
+    "tach": "coming"
+  }
+}
